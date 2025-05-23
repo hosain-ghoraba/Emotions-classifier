@@ -1,1 +1,1 @@
-<h1> Emotions Classifier </h1> 
+<h1> Emotions Classifier (CNN) </h1> 
